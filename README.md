@@ -1,5 +1,6 @@
 Adafruit Nokia LCD
 ==================
+The code is modified based on the version by Adafruit to adapt SunFounder LCD5110 screen.
 
 Python library for the using the Nokia 5110/3310 monochrome graphic LCD with a Raspberry Pi or Beaglebone Black.
 
